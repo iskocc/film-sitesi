@@ -7,4 +7,6 @@
 * Responsive yapı
 * Dark-light modu
 * Kolay kullanım
+
+
   
